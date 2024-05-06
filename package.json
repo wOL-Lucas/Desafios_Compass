@@ -1,14 +1,17 @@
 {
   "name": "desafios_compass-1",
   "version": "1.0.0",
+  "description": "-------------------- Como contribuir:",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "HelloWorld": "npx jest Desafios/easy/fundamentals/HelloWorld/index.test.js"
   },
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-
-  "dependencies": {
-    "jest": "^29.7.0"
+  "devDependencies": {
+    "@babel/core": "^7.24.5",
+    "@babel/preset-env": "^7.24.5",
+    "babel-jest": "^29.7.0"
   }
-  
 }

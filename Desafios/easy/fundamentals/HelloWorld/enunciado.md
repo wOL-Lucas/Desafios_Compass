@@ -1,2 +1,1 @@
-Você deve retornar um "console.log()" dizendo "Hello, World!"
-dentro da função HelloWorld.
+Você deve retornar um "Hello, World!" dentro da função HelloWorld.
