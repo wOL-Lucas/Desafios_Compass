@@ -15,3 +15,5 @@ Como contribuir:
 
         -- 📁 Arrays:
           -- 📁 index.js
+
+- Para que seu código passe por um review da galera, abra um Pull Request
