@@ -1,0 +1,1 @@
+Você deve retornar um "Hello, World!" dentro da função HelloWorld.
