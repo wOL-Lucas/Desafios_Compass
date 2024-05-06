@@ -9,11 +9,11 @@ Como contribuir:
 
   -- 📁 Resoluções
 
-    -- 📁 Lucas Eduardo
+      -- 📁 Lucas Eduardo
 
-      -- 📁 JS Básico
+        -- 📁 JS Básico
 
-        -- 📁 Arrays:
-          -- 📁 index.js
+          -- 📁 Arrays:
+            -- 📁 index.js
 
 - Para que seu código passe por um review da galera, abra um Pull Request
