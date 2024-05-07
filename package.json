@@ -4,6 +4,7 @@
   "description": "-------------------- Como contribuir:",
   "main": "index.js",
   "scripts": {
+    "test": "jest",
     "HelloWorld": "npx jest Desafios/easy/fundamentals/HelloWorld/index.test.js"
   },
   "keywords": [],
