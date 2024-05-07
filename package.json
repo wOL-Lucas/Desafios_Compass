@@ -1,11 +1,10 @@
 {
   "name": "desafios_compass-1",
   "version": "1.0.0",
-  "description": "-------------------- Como contribuir:",
   "main": "index.js",
   "scripts": {
-    "HelloWorld": "npx jest Desafios/easy/fundamentals/HelloWorld/index.test.js",
-    "forLoop": "npx jest Desafios/easy/fundamentals/forLoop/forLoop.test.js"
+    "HelloWorld": "npx jest HelloWorld",
+    "forLoop": "npx jest ForLoop"
   },
   "keywords": [],
   "author": "",
