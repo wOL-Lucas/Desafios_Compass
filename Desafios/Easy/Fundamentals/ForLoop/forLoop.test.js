@@ -1,6 +1,6 @@
 import { contarAte20, dezEmDez, exirNumeroImpar } from "./forLoop";
 
-describe("Testes para os Exercicios de Loop for Nv: Easy", () => {
+describe("ForLoop", () => {
   it("Teste 1: contarAte20 - Quando a função for chamada de imprimir os números de 1 a 2o no console", () => {
     const consoleSpy = jest.spyOn(console, "log");
     contarAte20();
