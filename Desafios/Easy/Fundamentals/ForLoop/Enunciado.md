@@ -13,5 +13,3 @@ Saída: 10,20,30,40,50... 100
 Exemplo:
 Chamada da função: exirNumeroImpar()
 Saída: 1,3,5,7,9 ...19
-
-- para validar o seu código, digite "npm run ForLoop" no terminal.
