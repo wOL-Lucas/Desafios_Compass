@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "HelloWorld": "npx jest HelloWorld",
-    "forLoop": "npx jest ForLoop"
+    "ForLoop": "npx jest ForLoop",
+    "ShortestWord": "npx jest ShortestWord"
   },
   "keywords": [],
   "author": "",
